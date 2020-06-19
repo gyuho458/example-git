@@ -1,1 +1,1 @@
-second by example1 branch
+second text by master branch
